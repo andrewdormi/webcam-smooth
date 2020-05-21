@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/webcam-smooth/static/css/main.a08d0468.chunk.css",
+    "main.js": "/webcam-smooth/static/js/main.19a0f5e1.chunk.js",
+    "main.js.map": "/webcam-smooth/static/js/main.19a0f5e1.chunk.js.map",
+    "runtime-main.js": "/webcam-smooth/static/js/runtime-main.611f6a9d.js",
+    "runtime-main.js.map": "/webcam-smooth/static/js/runtime-main.611f6a9d.js.map",
+    "static/js/2.5e7e0612.chunk.js": "/webcam-smooth/static/js/2.5e7e0612.chunk.js",
+    "static/js/2.5e7e0612.chunk.js.map": "/webcam-smooth/static/js/2.5e7e0612.chunk.js.map",
+    "index.html": "/webcam-smooth/index.html",
+    "precache-manifest.b0360e21d229f69bb271b374a7e4cfda.js": "/webcam-smooth/precache-manifest.b0360e21d229f69bb271b374a7e4cfda.js",
+    "service-worker.js": "/webcam-smooth/service-worker.js",
+    "static/css/main.a08d0468.chunk.css.map": "/webcam-smooth/static/css/main.a08d0468.chunk.css.map",
+    "static/js/2.5e7e0612.chunk.js.LICENSE.txt": "/webcam-smooth/static/js/2.5e7e0612.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.611f6a9d.js",
+    "static/js/2.5e7e0612.chunk.js",
+    "static/css/main.a08d0468.chunk.css",
+    "static/js/main.19a0f5e1.chunk.js"
+  ]
+}
